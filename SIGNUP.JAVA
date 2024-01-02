@@ -16,6 +16,23 @@ import java.util.ArrayList;
             System.out.println("1) Student" + "\n" + "2) Tutor");
             int choice = input.nextInt();
 
+            
+            void()
+            {
+            	
+            	int name;
+            	String Email:
+            		
+            		
+            		dhbfkdsnf;dsgvmdf
+            		f
+            		dg,kmdf;gmfd;bl.gf
+            		h
+            		g';dfjm;dkb'dsblgdfb
+            }
+            	System.out.println("welcome");
+            	
+            }
             switch(choice) {
                 case 1:
                     System.out.println("========== Student Account ==========");
